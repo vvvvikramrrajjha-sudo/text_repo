@@ -1,2 +1,5 @@
 a=str(input("enter any string value"))
 print(a)
+#print (a[3])
+#print(a.endswith("er"))
+print(a.split())
